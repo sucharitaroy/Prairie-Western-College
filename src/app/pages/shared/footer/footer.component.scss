@@ -1,0 +1,130 @@
+.bg_dark8 {
+  background-color: #0a1222;
+}
+.adress_ftrtext {
+  font-size: 15px;
+}
+.c_light {
+  color: #fff;
+}
+.pb_15 {
+  padding-bottom: 15px;
+}
+.pt_20 {
+  padding-top: 20px;
+}
+.align-items-start {
+  align-items: flex-start !important;
+}
+.mr_20 {
+  margin-right: 20px;
+}
+.mt_10 {
+  margin-top: 10px;
+}
+.mb_0 {
+  margin-bottom: 0;
+}
+.lh_30 {
+  line-height: 30px;
+}
+[class*="col"] + [class*="col"] .contact-info-box2 {
+  border-left: 1px solid #1f2739;
+}
+.c_light a {
+  color: #fff;
+  font-size: 15px;
+}
+.fs_20 {
+  font-size: 20px;
+}
+.clg_ftrdescrptn {
+  font-size: 15px;
+  text-align: justify;
+}
+.c_light2 a, .c_light2 {
+  color: #8e939f;
+}
+.mb_20 {
+  margin-bottom: 20px;
+}
+.fw_medium {
+  font-weight: 500;
+}
+.fs_22 {
+  font-size: 22px;
+}
+ul, li {
+  list-style: none;
+  padding: 0px;
+  margin: 0px;
+}
+ul.link-widget-1-list li {
+  margin-bottom: 10px;
+}
+.footer-newsletter form input[type=email] {
+  border: 1px solid #313235;
+  height: 45px;
+  background: transparent;
+  border-radius: 5px;
+  padding: 0 20px;
+  width: 100%;
+  color: #696d77;
+}
+.footer-newsletter {
+  position: relative;
+}
+.footer-newsletter button {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 54px;
+  padding: 12px 0 18px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.btn-1 i:before {
+  font-weight: bold;
+}
+.btn-1 {
+  position: relative;
+  display: inline-flex;
+  overflow: hidden;
+  text-align: center;
+  z-index: 1;
+  color: #ffffff;
+  transition: .5s;
+  background-color:#fd4a36;
+}
+.btn-1:hover {
+  color: #fff;
+  background-color: #2C2A49;
+}
+form input[type=search]:focus, form input[type=text]:focus, form input[type=email]:focus, form input[type=password]:focus, form input[type=tel]:focus, form input[type=number]:focus, form input[type=file]:focus, form select:focus, form textarea:focus {
+  border-color: #fd4a36;
+}
+.planei{
+  margin-left: 15px;
+}
+.footer-border {
+    border-bottom: 1px solid #1f2739;
+}
+.pt_60 {
+  padding-top: 60px;
+}
+.pb_6 {
+  padding-bottom: 6px;
+}
+.pt_20 {
+  padding-top: 20px;
+}
+.mb_40 {
+  margin-bottom: 40px;
+}
+.hlclogo_sizedesign {
+  width: 146px;
+  margin-top: -43px;
+}
+.company_linktext {
+  color: #fd4a36 !important;
+}
