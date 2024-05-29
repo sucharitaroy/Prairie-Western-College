@@ -44,7 +44,7 @@ import { TermsConditionsComponent } from './pages/terms-conditions/terms-conditi
     FaqComponent,
     PrivacyPolicyComponent,
     TermsConditionsComponent,
-
+    
   ],
   imports: [
     BrowserModule,
